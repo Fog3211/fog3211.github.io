@@ -5,11 +5,11 @@
 # Site
 title: Fog3211的博客
 subtitle: ''
-description: 'Fog3211的博客'
-keywords: 'hexo,Fog3211,前端'
+description: Fog3211的博客
+keywords: hexo,Fog3211,前端
 author: Fog3211
 language: zh-CN
-timezone: ''
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
