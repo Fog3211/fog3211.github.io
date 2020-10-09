@@ -1,1 +1,1 @@
-[博客传送门](https://fog3211.github.io)
+[博客传送门](https://blog.fog3211.com)
